@@ -16,14 +16,17 @@ title: 改善强弱音调练习
 
 product, colleague, suburb
 
+product
+
+
 <div>
 <audio controls="" controlslist="nodownload" preload="true"><source src="https://c%64n.l%69zh%69.f%6D/aud%69o/2021/01/25/5158434977337216006_hd.%6Dp3"></audio>
 </div>
-product
+colleague
 
 
 <div>
 <audio controls="" controlslist="nodownload" preload="true"><source src="https://cdn.lizhi.fm/audio/2020/12/08/5149274258753074182_hd.mp3"></audio>
 </div>
-colleague
+
 
