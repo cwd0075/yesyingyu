@@ -13,6 +13,7 @@ title: 改善强弱音调练习
 从这个减少口音练习视频开始，了解单词重音的介绍。这将帮助您听到单词的重音，并开始思考您的音调和节奏。
 
 您将学习以下单词。
+
 product, colleague, suburb
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
