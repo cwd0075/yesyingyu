@@ -3,7 +3,7 @@ layout: post
 title: 改善强弱音调练习
 ---
 ![]({{ site.baseurl }}/images/config.png)
-<figure class="alignright">
+<figure>
 	<img src="/images/usa-flag.jpg">
     <figcaption class="attribution"><a href="https://www.flickr.com/photos/kasei/4763596557">by Gregory Williams</a></figcaption>
       
