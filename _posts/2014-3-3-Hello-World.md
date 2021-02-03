@@ -2,6 +2,7 @@
 layout: post
 title: 改善强弱音调练习
 ---
+![]({{ site.baseurl }}/images/config.png)
 
 <figure class="alignright">
 	<img src="/images/usa-flag.jpg">
