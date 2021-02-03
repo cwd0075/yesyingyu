@@ -2,7 +2,11 @@
 layout: post
 title: 改善强弱音调练习
 ---
-
+<figure class="alignright">
+	<img src="/images/usa-flag.jpg">
+    <figcaption class="attribution"><a href="https://www.flickr.com/photos/kasei/4763596557">by Gregory Williams</a></figcaption>
+      
+</figure>
 对于非英语母语者来说，如何使英语的单词重音、强调和节奏正确，是一个非常具有挑战性的领域。非英语母语者经常使用过于平淡的单词重音、强调和节奏，或者他们把重音放在了错误的地方。出现这种问题有两个原因。第一个原因是，你无法通过观察一个英语单词来判断重音应该放在哪里。第二个原因是人们倾向于将第一语言的重音模式带入他们的英语中。
 
 研究表明，母语人士会利用英语单词中的重音和强调来识别它。当您使用平坦或不正确的重音时，您的听众将很难立即认出这个词。 这就是为什么您必须努力改善您的单词重音，以提高英语的清晰度。
