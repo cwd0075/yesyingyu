@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+YesYingYu 英语发音工作坊
 
-### More Information
+你想说一口流利的英语，清晰的英语发音，以便于与他人交流吗？那么，你来对地方了。工作坊告诉你英语是如何真正说的。它将帮助你成为一个更好的听众和更流利的说话者。
 
-A place to include any other types of information that you'd like to include about yourself.
+你需要通过口语考试、通过工作面试或与他人交流？无论你的英语需求是什么，YesYingYu 英语发音工作坊都能帮助你。
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+
+### 联系我吧
+
+[cwd_0075@qq.com](mailto:cwd_0075@qq.com)
